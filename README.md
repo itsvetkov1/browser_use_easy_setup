@@ -1,4 +1,4 @@
-# Browser-Use Service Documentation
+# Browser-Use-Easy-Setup Service Documentation
 
 ## Prerequisites
 - Python 3.11 or higher
@@ -93,3 +93,8 @@ browser_use/
 - Keep your `.env` file secure and never commit it to version control
 - The virtual environment must be activated before running scripts
 - Python 3.11+ is required for all functionality
+
+
+
+ ## Please visit the original project and support its creators:
+https://github.com/browser-use/browser-use 
